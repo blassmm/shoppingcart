@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 * HOST = https://6661180586958d250bb9ad5a--mellow-sorbet-a79763.netlify.app/
 * Create react app + redux + tailwind
@@ -7,7 +7,6 @@
 
 
 
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
